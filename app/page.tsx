@@ -21,7 +21,7 @@ export default function Home() {
             .
           </li>
           <li className="tracking-[-.01em]">
-            테스트 할 수 없는건 만들 수 없다.
+            페이지 수정 테스트
           </li>
         </ol>
 
