@@ -1,4 +1,5 @@
 import Image from "next/image";
+import Link from "next/link";
 
 // 일반 정보
 async function getResumeInfo() {
@@ -56,6 +57,12 @@ export default async function Home() {
           </li>
           
         </ol>
+        <Link
+          href="/resume"
+          className="inline-flex items-center rounded-full px-4 py-2 text-sm font-bold bg-black text-white dark:bg-white dark:text-black"
+        >
+          Resume 보러가기 →
+        </Link>        
       </main>
     </div>
   );
