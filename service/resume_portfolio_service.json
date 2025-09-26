@@ -1,3 +1,23 @@
 {
-  "project":"스터디,프로젝트 인원 모집 웹사이트"
+  "project": "Portfolio",
+  "items": [
+    {
+      "title": "Studify — 스터디/프로젝트 인원 모집 플랫폼",
+      "role": "Full-stack (FE React, BE Spring Boot)",
+      "period": "2025.07 ~ 2025.09",
+      "tech": ["React", "React Router", "Axios", "Spring Boot 3", "JPA", "JWT", "MySQL", "Swagger/OpenAPI"],
+      "bullets": [
+        "게시글/댓글 CRUD, 포지션/타입 필터, '모집중만' 보기, 마감 표시",
+        "JWT 로그인/인가, 작성자 권한 수정·삭제, 예외 처리 및 응답 규격화",
+        "PostCard · PostDetail · WritePage 등 UI 구조 최적화 및 상태 관리",
+        "BE: Post/Comment/Member 도메인, DTO/Entity/Service/Repository 계층화"
+      ],
+      "links": {
+        "frontend": "https://github.com/LG-CNS-1st-mini-project/Studify-FE",
+        "backend": "https://github.com/LG-CNS-1st-mini-project/Studify-BE",
+        "org": "https://github.com/orgs/LG-CNS-1st-mini-project/repositories",
+        "demo": "https://studify.example.com"
+      }
+    }
+  ]
 }
