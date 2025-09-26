@@ -15,8 +15,6 @@
       "links": {
         "frontend": "https://github.com/LG-CNS-1st-mini-project/Studify-FE",
         "backend": "https://github.com/LG-CNS-1st-mini-project/Studify-BE",
-        "org": "https://github.com/orgs/LG-CNS-1st-mini-project/repositories",
-        "demo": "https://studify.example.com"
       }
     }
   ]
