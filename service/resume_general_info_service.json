@@ -1,14 +1,13 @@
 {
   "name": "이경민",
   "englishName": "KyungMin Lee",
-  "summary": "끊임없이 도전하고 배우는 개발자 이경민입니다 :)",
-  "email": "rudals2334@gmail.com",
+  "summary": "이경민입니다",
+  "email": "rudals831@gmail.com",
   "github": "https://github.com/rudals2334",
-  "blog": "https://rudals2334.tistory.com",
   "about": [
-    "RESTful 하고 유지보수가 쉬운 SW를 개발하고 싶어요.",
-    "사용자 피드백을 적극적으로 반영하는 개발을 하고 싶어요.",
-    "새로운 기술에 도전하고 항상 성장하려고 노력해요."
+  "사용자 친화적이고 직관적인 서비스를 만드는 것이 목표입니다.",
+  "팀과의 협업을 통해 문제를 해결하고 성과를 내는 것을 좋아합니다.",
+  "꾸준한 학습과 도전을 통해 전문성을 키워가고 있습니다."
   ],
-  "education": "정보통신공학과 / 인공지능·ICT융합 연계전공 (2022.03 ~ 2026.02)"
+  "education": "산업경영공학과"
 }
