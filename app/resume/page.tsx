@@ -99,7 +99,7 @@ export default async function ResumePage() {
       {/* About Me */}
       <section>
         <h3 className="flex items-center text-lg font-semibold mb-2">
-          <span className="mr-2">📂</span> 내 소개
+          <span className="mr-2"></span> 내 소개
         </h3>
         <hr className="border-gray-300 dark:border-gray-700 mb-3" />
         <ul className="list-disc list-inside space-y-1 bg-gray-50 dark:bg-gray-900 p-4 rounded-lg">
@@ -112,7 +112,7 @@ export default async function ResumePage() {
       {/* Educations */}
       <section>
         <h3 className="flex items-center text-lg font-semibold mb-2">
-          <span className="mr-2">📘</span> 학과
+          <span className="mr-2"></span> 학과
         </h3>
         <hr className="border-gray-300 dark:border-gray-700 mb-3" />
         <div className="bg-gray-50 dark:bg-gray-900 p-4 rounded-lg">
@@ -123,7 +123,7 @@ export default async function ResumePage() {
       {/* Portfolio */}
       <section>
         <h3 className="flex items-center text-lg font-semibold mb-2">
-          <span className="mr-2">📕</span> Portfolio
+          <span className="mr-2"></span> Portfolio
         </h3>
         <hr className="border-gray-300 dark:border-gray-700 mb-3" />
 
