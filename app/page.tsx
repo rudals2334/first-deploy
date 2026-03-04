@@ -1,6 +1,7 @@
 // app/resume/page.tsx
 import Image from "next/image";
 import type { Metadata } from "next";
+import Link from "next/link";
 
 // 타입 정의
 type GeneralInfo = {
@@ -111,12 +112,12 @@ export default async function ResumePage() {
       {/* Top bar */}
       <header className="sticky top-0 z-20 border-b border-white/10 bg-[#070A12]/60 backdrop-blur">
         <div className="mx-auto flex w-full max-w-5xl items-center justify-between px-6 py-4">
-          <a href="/" className="group inline-flex items-center gap-2">
+          <Link href="/" className="group inline-flex items-center gap-2">
             <span className="h-2.5 w-2.5 rounded-full bg-gradient-to-br from-[#7C5CFF] to-[#3AD6FF] shadow-[0_0_24px_rgba(124,92,255,.45)]" />
             <span className="text-xs font-extrabold tracking-[0.22em] text-white/90">
               RESUME
             </span>
-          </a>
+          </Link>
 
           <nav className="hidden items-center gap-2 sm:flex">
             <a
